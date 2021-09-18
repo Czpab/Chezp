@@ -1,0 +1,10 @@
+com\Czp\utils\HammingUtils.class
+com\Czp\main\MainTest.class
+com\Czp\utils\SimHashUtils.class
+com\Czp\utils\ShortStringExceptionTest.class
+com\Czp\utils\ShortStringException.class
+com\Czp\utils\SimHashUtilsTest.class
+com\Czp\utils\HammingUtilsTest.class
+com\Czp\utils\TxtlOUtilsTest.class
+com\Czp\main\MainPaperCheck.class
+com\Czp\utils\TxtlOUtils.class
